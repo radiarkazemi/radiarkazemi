@@ -1,41 +1,27 @@
-<div align="center">
+<h1 align="center">Hello there! 👋 I'm Mohammad Kazemi</h1>
+<h3 align="center">🚀 Software Engineering Student | Data Science & ML Enthusiast 🚀</h3>
 
-# 👋 Hey, I'm Mohammad Kazemi!
-
-## 🎓 Software Engineering Student & Aspiring Data Scientist 🚀
-
-</div>
-
----
-
-- 👨‍💻 I'm deeply passionate about **Data Science** & **Machine Learning**.
-- 🐍 Proficient in **Python**, **NumPy**, and **Pandas** for data analysis.
-- 📚 Currently diving headfirst into the fascinating world of **Machine Learning**.
-- 💼 Actively seeking opportunities to apply and expand my skills.
-- 🤝 Open for collaborations in data-focused projects.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-kazemi-122b91200">LinkedIn</a> •
+  <a href="https://www.youtube.com/@mokatech5102">YouTube</a>
+</p>
 
 ---
 
-<div align="center">
+I'm currently studying Software Engineering and diving into the world of Data Science and Machine Learning. Python is my language of choice, and I'm proficient with libraries such as NumPy and Pandas. I'm continually seeking to expand my knowledge and apply what I learn to real-world problems. 
 
-## 🌐 Find me around the web:
+🔭 **Currently working on:** Developing my Python skills and learning Machine Learning.
 
-<a href="https://www.linkedin.com/in/mohammad-kazemi-122b91200">
-  <img align="center" alt="Mohammad's LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+🌱 **Currently learning:** Advanced topics in Machine Learning and Data Analysis.
 
-|
+👯 **Looking to collaborate on:** Any interesting project that involves Data Science or Machine Learning.
 
-<a href="https://www.youtube.com/@mokatech5102">
-  <img align="center" alt="Mohammad's YouTube" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
+💬 **Ask me about:** Anything! I'm always open to chat and collaborate.
 
-</div>
+📫 **How to reach me:** Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-kazemi-122b91200) or reach out on my [YouTube channel](https://www.youtube.com/@mokatech5102).
+
+🌎 **Fun fact:** I love to explore new places and cultures!
 
 ---
 
-<div align="center">
-
-# 🚀 Join me on my journey to becoming a Data Scientist!
-
-</div>
+![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokatech5102&show_icons=true&theme=radical)
