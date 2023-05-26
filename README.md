@@ -24,4 +24,4 @@ I'm currently studying Software Engineering and diving into the world of Data Sc
 
 ---
 
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokatech5102&show_icons=true&theme=radical)
+![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=radiarkazemi&show_icons=true&theme=radical)
