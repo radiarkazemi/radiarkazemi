@@ -1,10 +1,41 @@
-- 👋 Hi, I’m Mohammad Kazemi
-- 👀 I’m interested in Technology and CS
-- 😃 I’m currently learning Python and i really like to try new things!
-- I would like to continue my path by entering into AI and machine learning!
+<div align="center">
 
+# 👋 Hey, I'm Mohammad Kazemi!
 
-<!---
-radiarkazemi/radiarkazemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎓 Software Engineering Student & Aspiring Data Scientist 🚀
+
+</div>
+
+---
+
+- 👨‍💻 I'm deeply passionate about **Data Science** & **Machine Learning**.
+- 🐍 Proficient in **Python**, **NumPy**, and **Pandas** for data analysis.
+- 📚 Currently diving headfirst into the fascinating world of **Machine Learning**.
+- 💼 Actively seeking opportunities to apply and expand my skills.
+- 🤝 Open for collaborations in data-focused projects.
+
+---
+
+<div align="center">
+
+## 🌐 Find me around the web:
+
+<a href="https://www.linkedin.com/in/mohammad-kazemi-122b91200">
+  <img align="center" alt="Mohammad's LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+|
+
+<a href="https://www.youtube.com/@mokatech5102">
+  <img align="center" alt="Mohammad's YouTube" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 Join me on my journey to becoming a Data Scientist!
+
+</div>
