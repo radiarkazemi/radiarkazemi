@@ -1,5 +1,5 @@
-<h1 align="center">Hello there! 👋 I'm Mohammad Kazemi</h1>
-<h3 align="center">🚀 Software Engineering Student | Data Science & ML Enthusiast 🚀</h3>
+<h1 align="center">Mohammad Kazemi</h1>
+<h3 align="center">Software Engineer & Django Web Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-kazemi-122b91200">LinkedIn</a> •
